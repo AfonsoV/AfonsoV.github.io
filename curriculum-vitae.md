@@ -4,37 +4,37 @@ layout: default
 
 # Jobs
 
-`_Position_` : Postdoctoral researcher
+`Position` : Postdoctoral researcher
 
-_Location_ : Leiden Observatory, Netherlands
+`Location` : Leiden Observatory, Netherlands
 
-_Date_: Jan. 2018 - present
+`Date` : Jan. 2018 - present
 
-_Description_: N/A
+`Description` : N/A
 * * *
-_Position_ : Postdoctoral researcher
+`Position` : Postdoctoral researcher
 
-_Location_ : Centro de Computação Gráfica, Guimarães, Portugal
+`Location` : Centro de Computação Gráfica, Guimarães, Portugal
 
-_Date_: Feb. 2017 - Dec. 2017
+`Date`: Feb. 2017 - Dec. 2017
 
 _Description_: Developed an Android application for automatic medicine recognition from the video feed of the device. This application applied 4 stages for successful recognition: box detection - barcode detection - text detection - feature detection. It makes use of libraries such as OpenCV (for general computer vision tasks), Tesseract (for optical character recognition) and ZBar (for barcode detection).
 * * *
-_Position_ : Research assistant
+`Position` : Research assistant
 
-_Location_ : Centro de Astrofísica da Universidade do Porto, Portugal
+`Location` : Centro de Astrofísica da Universidade do Porto, Portugal
 
-_Date_: Jan. 2012 - Dec. 2012
+`Date`: Jan. 2012 - Dec. 2012
 
-_Description_: Developed a FORTRAN code with OpenMP implementation to compute the two-point correlation function (TPCF) from a galaxy catalog compiled in the context of the global project "The Bulgeless Side of Galaxy Evolution" based on AEGIS, COSMOS, GEMS and GOODS data. The TPCF was calculated for various groups of galaxies (grouped according to their physical properties) to assess the clustering dependence on physical properties. All the data analysis of the correlation functions was done using python language.
+`Description`: Developed a FORTRAN code with OpenMP implementation to compute the two-point correlation function (TPCF) from a galaxy catalog compiled in the context of the global project "The Bulgeless Side of Galaxy Evolution" based on AEGIS, COSMOS, GEMS and GOODS data. The TPCF was calculated for various groups of galaxies (grouped according to their physical properties) to assess the clustering dependence on physical properties. All the data analysis of the correlation functions was done using python language.
 * * *
-_Position_ : Research assistant
+`Position` : Research assistant
 
-_Location_ : Centro de Astrofísica da Universidade do Porto, Portugal
+`Location` : Centro de Astrofísica da Universidade do Porto, Portugal
 
-_Date_: Nov. 2009 - Oct. 2010
+`Date`: Nov. 2009 - Oct. 2010
 
-_Description_: Developed skills on how to run and analyze data from numerical N-body+SPH simulations using the publicly available _gadget_ and _hydra_ codes. Creation of a simple code in FORTRAN to generate the initial conditions for a spherical collapse. Comparison of the results (density-temperature phase-space diagrams, mass-temperature relations for simulated clusters, density and temperature profiles for the case study of the spherical collapse) from both codes given the same initial conditions. All data analysis of the simulation results was done using IDL.
+`Description`: Developed skills on how to run and analyze data from numerical N-body+SPH simulations using the publicly available _gadget_ and _hydra_ codes. Creation of a simple code in FORTRAN to generate the initial conditions for a spherical collapse. Comparison of the results (density-temperature phase-space diagrams, mass-temperature relations for simulated clusters, density and temperature profiles for the case study of the spherical collapse) from both codes given the same initial conditions. All data analysis of the simulation results was done using IDL.
 
 # Education
 
