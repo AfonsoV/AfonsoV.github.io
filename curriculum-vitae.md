@@ -18,7 +18,7 @@ layout: default
 
 `Date`: Feb. 2017 - Dec. 2017
 
-_Description_: Developed an Android application for automatic medicine recognition from the video feed of the device. This application applied 4 stages for successful recognition: box detection - barcode detection - text detection - feature detection. It makes use of libraries such as OpenCV (for general computer vision tasks), Tesseract (for optical character recognition) and ZBar (for barcode detection).
+`Description`: Developed an Android application for automatic medicine recognition from the video feed of the device. This application applied 4 stages for successful recognition: box detection - barcode detection - text detection - feature detection. It makes use of libraries such as OpenCV (for general computer vision tasks), Tesseract (for optical character recognition) and ZBar (for barcode detection).
 * * *
 `Position` : Research assistant
 
