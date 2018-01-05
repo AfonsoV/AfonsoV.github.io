@@ -42,7 +42,7 @@ layout: default
 
 I got my PhD degree in Astrophysics and Cosmology from [Aix-Marseille Universitè](https://sciences.univ-amu.fr/) and worked at the [Laboratoire d'Astrophysique de Marseille (LAM)](https://www.lam.fr/?lang=fr).
 
-I was supervised by Prof. Olivier Le Fèvre, and my work focused on studying the morphological properties (both quantitative and qualitative) of the UV light of star-forming galaxies at 2<z<6 observed within the [VIMOS Ultra Deep Survey (VUDS)](http://cesam.oamp.fr/vuds/). I also studied the shapes of the Lyman-\alpha emission as seen from the 2D slit spectra. have also participated in the preparation of the public data releases.
+I was supervised by Prof. Olivier Le Fèvre, and my work focused on studying the morphological properties (both quantitative and qualitative) of the UV light of star-forming galaxies at 2<z<6 observed within the [VIMOS Ultra Deep Survey (VUDS)](http://cesam.oamp.fr/vuds/). I also studied the shapes of the Lyman-$\alpha$ emission as seen from the 2D slit spectra. have also participated in the preparation of the public data releases.
 
 ### MSc.
 
